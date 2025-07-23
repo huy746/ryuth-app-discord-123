@@ -36,9 +36,10 @@ Shash
 ```
 
 ### Help
-Support Channel[Discord Channel] [Discord]
+Support Channel[Discord server][discord].
 
-[Discord]
+
+[discord]
 
 
 
