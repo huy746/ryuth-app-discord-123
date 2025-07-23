@@ -26,6 +26,14 @@ Command [!]
 ```bash
 !coin
 ```
+Shash
+[/]
+```bash
+/server
+```
+```bash
+/work
+```
 
 
 
