@@ -1,6 +1,6 @@
 # discord.py-bot-me
-Invite to Discord
-# https://discord.com/oauth2/authorize?client_id=1338702593911816275
+[Invite to Discord🤖]
+
 ### Website
 ```bash
 https://ryuthweb.blogspot.com/
@@ -38,8 +38,9 @@ Shash
 ### Help
 Support Channel[Discord server][discord].
 
-
-[discord]
+[discord]: 
+https://discord.gg/FaY4ZARfDp
+[Invite to Discord🤖]: https://discord.com/oauth2/authorize?client_id=1338702593911816275
 
 
 
