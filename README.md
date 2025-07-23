@@ -35,6 +35,11 @@ Shash
 /work
 ```
 
+### Help
+Support Channel[Discord Channel] [Discord]
+
+[Discord]
+
 
 
 
